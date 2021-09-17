@@ -2,7 +2,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import java.io.IOException;
 
-import translator.Translator;
+import lab02.Translator;
 
 public class Tests {
     @Test
